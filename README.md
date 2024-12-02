@@ -1,2 +1,12 @@
-# Youtube-Global-Statistics-Analysis
-Analyzed global YouTube data to find patterns in audience demographics, engagement metrics, and content performance. determined the best-performing categories, regional inclinations, and the elements that affect views, likes, and shares. The goal of insights is to help marketers and creators optimize their content strategy.
+# YouTube Global Statistics Analysis
+
+Analyzed YouTube global statistics to identify trends in content performance, viewer demographics, and engagement metrics. This project provides insights to help creators and marketers optimize their strategies.
+
+## Features
+- Analysis of top-performing categories and trends.
+- Regional preferences and audience demographics.
+- Insights into factors driving views, likes, comments, and shares.
+- Data visualizations for easy interpretation.
+
+- ## Technology Used
+- Power BI
